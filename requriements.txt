@@ -1,0 +1,14 @@
+dash==3.3.0
+duckdb==1.4.3
+duckdb_engine==0.17.0
+great-tables==0.20.0
+kagglehub==0.4.0
+pandas==2.3.3
+pillow==12.0.0
+plotly==6.5.0
+polars==1.36.1
+polars-runtime-32==1.36.1
+pyarrow==22.0.0
+pycountry==24.6.1
+pycountry-convert==0.7.2
+statsmodels==0.14.6
