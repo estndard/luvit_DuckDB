@@ -9,3 +9,5 @@
 - [9장-1](https://estndard.github.io/luvit_DuckDB/9%EC%9E%A5-1.html)
 - [9장-2](https://estndard.github.io/luvit_DuckDB/9%EC%9E%A5-2.html)
 - [9장-3](https://estndard.github.io/luvit_DuckDB/9%EC%9E%A5-3.html)
+
+[EPL 데이터 분석 대시보드](https://febb0656-2d48-44b7-b775-8b8cab6efe40.plotly.app/)
