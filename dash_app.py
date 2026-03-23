@@ -4,7 +4,7 @@ import plotly.express as px
 from PIL import Image
 import pandas as pd
 import duckdb
-con_espn = duckdb.connect("./data/espn.duckdb")
+con_espn = duckdb.connect("./espn.duckdb")
 
 def scale_X(X_list):
     return [140 - (X * 140) for X in X_list]
@@ -92,7 +92,7 @@ color_map = {"Penalty - Scored": "red", "Goal - Header": "lightblue",
 
 ## 골 지도에 사용할 경기장 배경 및 기타 레이아웃 설정
 layout = {
-    "images": [dict(source=Image.open('d:/book/duckdb/ESPN/half_stadium.png'),
+    "images": [dict(source=Image.open('./half_stadium.png'),
         xref="x", yref="y", x=-10, y=130, sizex=160, sizey=140, 
         sizing="stretch", layer="below")],
     "xaxis": dict(range=[-10, 160], showgrid=False, zeroline=False, showticklabels=False,
