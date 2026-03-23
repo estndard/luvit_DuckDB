@@ -10,6 +10,6 @@
 - [9장-2](https://estndard.github.io/luvit_DuckDB/9%EC%9E%A5-2.html)
 - [9장-3](https://estndard.github.io/luvit_DuckDB/9%EC%9E%A5-3.html)
 
-이 책에서 실습하는 EPL 데이터 분석 대시보드는 다음의 링크에서 확인할 수 있습니다. 속도가 좀 느리긴 하지만 잘 작동합니다. ^.^
+이 책에서 실습하는 EPL 데이터 분석 대시보드는 다음의 링크에서 확인할 수 있습니다. 속도가 좀 느리지만 잘 작동합니다. ^.^
 
 [EPL 데이터 분석 대시보드](https://febb0656-2d48-44b7-b775-8b8cab6efe40.plotly.app/)
