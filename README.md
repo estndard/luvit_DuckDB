@@ -25,6 +25,5 @@
 
 [![EPL Dashboard](https://img.shields.io/badge/DuckDB-EPL%20Dashboard-blue?logo=duckdb)](https://febb0656-2d48-44b7-b775-8b8cab6efe40.plotly.app/)
 
-    </td>
   </tr>
 </table>
