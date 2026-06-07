@@ -1,10 +1,6 @@
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github.com/estndard/luvit_DuckDB/blob/main/docs/%ED%99%8D%EB%B3%B4%EC%9D%B4%EB%AF%B8%EC%A7%80.png" alt="image" width="500">
-    </td>
-    <td width="60%">
- 
+<img src="https://github.com/estndard/luvit_DuckDB/blob/main/docs/%ED%99%8D%EB%B3%B4%EC%9D%B4%EB%AF%B8%EC%A7%80.png"
+     width="350"
+     align="left">
 
 **EPL과 유튜브 데이터로 배우는 DuckDB 실습 데이터와 코드**
 - [EPL_DATA&samplefile.zip](https://github.com/estndard/luvit_DuckDB/blob/main/EPL_DATA%26samplefile.zip) : 책에서 사용하는 영국 프리미어리그 데이터 셋과 샘플로 사용하는 파일
@@ -25,5 +21,3 @@
 
 [![EPL Dashboard](https://img.shields.io/badge/DuckDB-EPL%20Dashboard-blue?logo=duckdb)](https://febb0656-2d48-44b7-b775-8b8cab6efe40.plotly.app/)
 
-  </tr>
-</table>
