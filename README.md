@@ -1,4 +1,4 @@
-<img src="https://github.com/estndard/luvit_DuckDB/blob/main/docs/앞표지_LUVIT♥폴라스로시작하는데이터분석.jpg"
+<img src="https://github.com/estndard/luvit_DuckDB/blob/main/docs/홍보이미지.jpg"
      width="350"
      align="left">
 
